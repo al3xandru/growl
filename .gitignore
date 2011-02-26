@@ -1,0 +1,7 @@
+.Python
+.idea/
+bin/
+build/
+include/
+lib/
+
